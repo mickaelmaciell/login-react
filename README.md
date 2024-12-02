@@ -14,7 +14,7 @@ Antes de começar, certifique-se de ter o seguinte instalado em seu ambiente:
 
 Node.js (versão 16 ou superior)
 npm ou yarn
-Como executar o projeto
+# Como executar o projeto
 1. Clone o repositório
 bash
 Copiar código
@@ -26,14 +26,6 @@ Use npm ou yarn para instalar todas as dependências do projeto:
 bash
 Copiar código
 npm install
-# ou
-yarn install
-3. Execute o projeto localmente
-Inicie o servidor de desenvolvimento:
-
-bash
-Copiar código
-npm run dev
 
 # React: Biblioteca principal 
 para construção da interface.
